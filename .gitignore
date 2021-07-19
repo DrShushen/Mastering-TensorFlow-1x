@@ -58,8 +58,13 @@ Temporary Items
 # ----------------------------------------------------------------------------------------------------------------------
 # Custom
 
+.vscode/
 .ipynb_checkpoints
 
 Mastering TensorFlow 1.x.pdf
 
-tflogs
+tf1_source_code/
+
+tflogs/
+slim_logs/
+mnist/
