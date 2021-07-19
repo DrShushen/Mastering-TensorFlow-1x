@@ -1,9 +1,10 @@
 # Notes
 
 ## General
-Full reference for TF1 links: 
+Documentation for TF1: 
 * Overview: https://www.tensorflow.org/versions/r1.15/api_docs/python/tf
 * All symbols: https://www.tensorflow.org/versions/r1.15/api_docs/python/tf/all_symbols
+* Old documentation, now only available on GitHub: https://github.com/tensorflow/docs/tree/master/site/en/r1
 
 ## Chapter 1
 ...
