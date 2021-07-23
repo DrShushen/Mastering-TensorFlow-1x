@@ -68,3 +68,5 @@ tf1_source_code/
 tflogs/
 slim_logs/
 mnist/
+
+datasets/
